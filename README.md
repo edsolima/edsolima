@@ -6,6 +6,7 @@ Tenho paixão por resolver problemas complexos e construir soluções eficientes
 sempre buscando aprendizado contínuo e inovação.
 
 🛠️ Habilidades Técnicas
+
 Linguagens de Programação: Java, C, C#, Python, SQL, R.
 Frameworks e Ferramentas: Spring Boot, Thymeleaf, Maven, JWT, Dev C++, VS Code.
 Desenvolvimento Web: HTML, APIs RESTful.

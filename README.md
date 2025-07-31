@@ -3,38 +3,25 @@
   <h3>Desenvolvedor Backend com foco em Inteligência Artificial</h3>
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ewerton-oliveira-65aa4a31b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:ewerton.silva.o.lima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-</div>
+Meu compromisso é construir soluções inteligentes e com propósito. Atualmente, meu foco está no ecossistema Python e Inteligência Artificial, buscando aplicar o conhecimento em projetos práticos com RAG e outras tecnologias de IA para resolver problemas complexos do mundo real.
+
+### 👨‍🎓 Sobre Mim
+
+🎓 Cursando **Análise e Desenvolvimento de Sistemas** e estou sempre em busca de aprimorar meus conhecimentos.<br>
+💻 Tenho grande interesse por **desenvolvimento Back-end**, além de explorar **Inteligência Artificial** e automações.<br>
+🚀 Me envolvo com projetos práticos, APIs REST, autenticação JWT, e também crio automações e análises com Python e R.<br>
+📚 Acredito no poder do aprendizado contínuo e em construir soluções que gerem impacto real.
 
 ---
 
-### 🌟 Sobre Mim
-
-Cursando **Análise e Desenvolvimento de Sistemas**, sou um desenvolvedor apaixonado por resolver problemas complexos e construir soluções eficientes. Minha jornada em projetos pessoais e acadêmicos me proporcionou uma base sólida em **desenvolvimento backend**, com um interesse especial em integrar **Inteligência Artificial** para criar aplicações mais inteligentes e inovadoras.
-
-Estou sempre em busca de aprendizado contínuo para me manter atualizado com as tecnologias mais recentes do mercado.
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edsolima/edsolima/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edsolima/edsolima/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/edsolima/edsolima/output/pacman-contribution-graph.svg">
+</picture>
 
 
-### 🛠️ Habilidades Técnicas
-
-Minhas compétences estão organizadas abaixo para que você possa ter uma visão clara do meu stack tecnológico.
-
-| Categoria                | Tecnologias                                                                                                                                                                                                                                             |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Linguagens** | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> |
-| **Backend** | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"> <img src="https://img.shields.io/badge/APIs_RESTful-000?style=for-the-badge&logo=databricks&logoColor=white"> |
-| **Banco de Dados** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> |
-| **IA & Análise de Dados** | <img src="https://img.shields.io/badge/Inteligência_Artificial-grey?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/ETL-blue?style=for-the-badge&logo=apache-airflow&logoColor=white"> <img src="https://img.shields.io/badge/RAG-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/Análise_de_Dados-yellow?style=for-the-badge&logo=google-analytics&logoColor=black"> |
-| **Frontend Básico** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"> |
-| **Ferramentas & Outros** | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/POO-blue?style=for-the-badge"> |
-
----
-
-### Minhas Estatísticas no GitHub
+### ⭐ GitHub Stats 
 
 <div align="center">
   <a href="https://github.com/edsolima">
@@ -43,10 +30,45 @@ Minhas compétences estão organizadas abaixo para que você possa ter uma visã
   </a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edsolima/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edsolima/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/edsolima/edsolima/output/pacman-contribution-graph.svg">
-</picture>
 
----
+###
+
+<img align="right" height="200" src="https://blog.codeitbro.com/wp-content/uploads/2023/06/java-vs-c-sharp-programming-meme.jpg"  />
+
+#### 💻 Tecnologias e Linguagens
+<p 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,py,java,c,cs,r,docker" />
+  </a>
+</p>
+
+
+###
+
+#### 🚀 Frameworks e Bibliotecas 
+<p 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,postgres,mysql,flask,fastapi" />
+  </a>
+</p>
+
+
+#### 🤖 Inteligencia Artificial & Dados
+![IA](https://img.shields.io/badge/Inteligência_Artificial-grey?style=for-the-badge&logo=openai&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-blue?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-orange?style=for-the-badge)
+![Análise de Dados](https://img.shields.io/badge/Análise_de_Dados-yellow?style=for-the-badge&logo=google-analytics&logoColor=black)
+
+
+### Cursar **Análise e Desenvolvimento de Sistemas**, tem fortalecido minha paixão por tecnologia.
+
+Tenho me aprofundado em **Python**, com foco especial em **Inteligência Artificial** e no desenvolvimento de sistemas com **RAG (Retrieval-Augmented Generation)**. Além disso, possuo uma base sólida em tecnologias como **Java**, **Spring Boot**, **SQL** e **C#**, aplicando esses conhecimentos em projetos acadêmicos e pessoais que compõem meu portfólio.
+
+Acredito que **aprender construindo é o melhor caminho**, e por isso transformo teoria em prática sempre que possível 🚀.
+
+**Vamos nos conectar?** Sinta-se à vontade para me enviar um e-mail ou me adicionar no LinkedIn!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ewerton-oliveira-65aa4a31b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ewerton.silva.o.lima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</div>
